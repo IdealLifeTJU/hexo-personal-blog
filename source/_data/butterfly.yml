@@ -15,12 +15,15 @@
 # format: xxx: /xxx/||icon
 # ---------------
 menu:
-  Home: /||fa fa-home
-  Archives: /archives/||fa fa-archive
-  Tags: /tags/||fa fa-tags
-  Categories: /categories/||fa fa-folder-open
-  Link: /link/||fa fa-link
-  About: /about/||fa fa-heart
+  首页: /||fa fa-home
+  时间轴: /archives/||fa fa-archive
+  标签: /tags/||fa fa-tags
+  分类: /categories/||fa fa-folder-open
+  留言板: /messageboard/||fa fa-coffee
+  友链: /link/||fa fa-link
+  关于: /about/||fa fa-heart
+  相册: /gallery/||fa fa-camera
+  音乐: /music/||fa fa-music
 #   #XXX: /xxx
 
 
@@ -133,11 +136,13 @@ cdn:
 # Post info settings
 # ---------------
 # avatar: /img/avatar.png
-avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuzv8xOW_RsiahZlivLKCJySfmN1-RKKrfwMmNIoR-KyMHYNm
+#avatar: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuzv8xOW_RsiahZlivLKCJySfmN1-RKKrfwMmNIoR-KyMHYNm
+avatar: /img/avatar.jpg
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
-top_img: http://4.bp.blogspot.com/-BbtGdIFfJ6Q/UjfP7Zc_eeI/AAAAAAAAB9M/4lg14WU1hs4/s1600/McVicker_TheLake+oil+on+linen+40x60.jpg
+#top_img: http://4.bp.blogspot.com/-BbtGdIFfJ6Q/UjfP7Zc_eeI/AAAAAAAAB9M/4lg14WU1hs4/s1600/McVicker_TheLake+oil+on+linen+40x60.jpg
+top_img: /img/top.jpg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
@@ -247,7 +252,7 @@ valine:
 
 # Footer Settings
 # ---------------
-since: 2018
+since: 2019
 
 footer_custom_text:
 
@@ -285,19 +290,19 @@ baidu_site_verification:
 qihu_site_verification:
 
 Flink:
-  headline: 友情鏈接
-  info_headline: 我的Blog資料
-  name: Blog 名字： JerryC
-  address: Blog 地址： https://jerryc.me/
-  avatar: Blog 頭像： https://jerryc.me/img/avatar.png
-  info: Blog 簡介： 今日事,今日畢
-  comment: 如果需要交換友鏈,請留言
+  headline: 友情连接
+  info_headline: 我的Blog资料
+  name: Blog 名字： 茵尼斯弗利岛
+  address: Blog 地址： https://www.innisfreeisland.cn/
+  avatar: Blog 頭像： https://www/innisfreeisland.cn/img/avatar.png
+  info: Blog 簡介： 在林间听群蜂高唱，独居于幽处。
+  comment: 如果需要交換友链,請留言
 
  
 
 runtimeshow:
   enable: true
-  start_date: 6/7/2018 00:00:00
+  start_date: 28/7/2019 00:00:00
 
 
 nightshift:
@@ -313,7 +318,7 @@ announcement:
   content: 感謝訪問本站，若喜歡請收藏 ^_^
 
 reward:
-  enable: true
+  enable: false
   QR_code:
     - itemlist:
         img: /img/wechat.jpg
@@ -402,7 +407,7 @@ translate:
 
 # 鼠標點擊效果
 fireworks:
-  enable: false
+  enable: true
 
 #百度推送
 baidu_push:
