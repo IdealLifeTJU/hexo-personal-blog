@@ -239,15 +239,15 @@ disqus:
 
 # valine comment system. https://valine.js.org
 valine:
-  enable: false # if you want use valine,please set this value is true
-  appId:   # leancloud application app id
-  appKey:   # leancloud application app key
+  enable: true # if you want use valine,please set this value is true
+  appId: Dc81nbEOhfXReTXcFjaPctCz-gzGzoHsz  # leancloud application app id
+  appKey: 763W2Bal2qPSk0s49qs8Y51e  # leancloud application app key
   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: false # valine verify code (true/false)
   pageSize: 10 # comment list page size
   avatar: monsterid # gravatar style https://valine.js.org/#/avatar
-  lang: en # i18n: zh-cn/en/tw
-  placeholder: Please leave your footprints # valine comment input placeholder(like: Please leave your footprints )
+  lang: zh-cn # i18n: zh-cn/en/tw
+  placeholder: 岛主岛主，我有话说 # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header inf
 
 # Footer Settings
