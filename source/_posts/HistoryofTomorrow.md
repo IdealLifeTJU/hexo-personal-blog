@@ -1,7 +1,7 @@
 ---
-title: 未来简史
+title: 《未来简史》
 date: 2019-8-10
-"categories": "读书笔记"
+"categories": "豆架书屋"
 "tags": ["社会学","人类学","未来学"]
 ---
 
