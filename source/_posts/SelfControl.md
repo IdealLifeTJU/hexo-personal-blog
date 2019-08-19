@@ -1,7 +1,7 @@
 ---
 title: 《自控力》
 date: 2019-8-16
-"categories": "豆架书屋"git 
+"categories": "豆架书屋" 
 "tags": ["心理学"]
 ---
 
