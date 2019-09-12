@@ -315,7 +315,7 @@ activate_power_mode:
 
 
 announcement:
-  content: 感謝訪問本站，若喜歡請收藏 ^_^
+  content: 感谢访问本站，喜欢请收藏
 
 reward:
   enable: false
