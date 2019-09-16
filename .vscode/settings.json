@@ -1,0 +1,8 @@
+{
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": true,
+    }
+}
