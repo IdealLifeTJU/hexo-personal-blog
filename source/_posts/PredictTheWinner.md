@@ -31,7 +31,7 @@ tags: ["算法实战"]
 
 ### 一、递归
 &#8194;&#8194;&#8194;&#8194;从思路上来说最容易想，玩家一拿到了一个数，而玩家二会有两个选择，而他会选择留给玩家一的收益最小的。利用递归函数一步步做就可以了。
-```
+```java
 class Solution {
     public boolean PredictTheWinner(int[] nums) {
         int output = prediction(nums, 0, nums.length-1);
@@ -62,7 +62,7 @@ class Solution {
 ### 二、动态规划
 &#8194;&#8194;&#8194;&#8194;设`dp[i][j]`为从`i`到`j`范围内玩家一可以超出玩家二的分数，则最后结果为`dp[0][nums.length-1] > 0`。对于两端的分数设为`nums[start]`以及`nums[end]`，若选择`nums[start]`，则在玩家二选择时，他所获得的超出玩家一的分数为`dp[start+1][end]`；若选择`nums[end]`，则在玩家二选择时，他所获得的超出玩家一的分数为`dp[start][end-1]`。故`dp[start][end] = Math.max(nums[start]-dp[start+1][end], nums[end]-dp[start][end-1]);`至此状态转换方程完成。
 &#8194;&#8194;&#8194;&#8194;当`start == end`时，`dp[start][end] = nums[start]`。
-```
+```java
 class Solution {
     public boolean PredictTheWinner(int[] nums) {
         int n = nums.length;
