@@ -80,3 +80,16 @@ theme: Butterfly
 deploy:
   type:
 
+# live 2D看板动画
+live2d:
+  enable: true
+  pluginModelPath: assets/
+  model:
+    use: live2d-widget-model-hijiki
+  display:
+    position: right
+    width: 300
+    height: 680
+  mobile: 
+    show: false
+
