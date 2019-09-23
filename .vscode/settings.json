@@ -4,5 +4,6 @@
         "editor.quickSuggestions": true,
         "editor.suggestSelection": "first",
         "editor.tabCompletion": true,
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
