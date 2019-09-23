@@ -1,6 +1,6 @@
 ---
 title: 对话
-date: 2019-9-15
+date: 2019-9-23
 categories: "莎草手稿"
 ---
 
