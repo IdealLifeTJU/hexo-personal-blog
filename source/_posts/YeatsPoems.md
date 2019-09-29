@@ -18,7 +18,6 @@ tags: ["叶芝"]
 
 一、
 
-
 >The White Birds
 >
 >I Would that we were, my beloved, white birds on the foam of the sea!
@@ -56,4 +55,75 @@ Were we only white birds, my beloved, buoyed out on the foam of the sea!
 不久远离了流光，玫瑰和百合的侵蚀
 我们只是一双白鸟，亲爱的——
 出没在浪花里！
+
+&#8194;&#8194;&#8194;&#8194;青年叶芝与毛特·冈一次出游时，有一对海鸥在头顶飞过，毛特说假如来世再生，她愿变做一只海鸥。几天后她便收到叶芝寄给她的《白鸟》一诗，表达了诗人对爱的祝愿。这首诗与同样是赠给佳人的《当你老了》并列为叶芝早期诗作中的代表，诗意明朗纯净，单纯浪漫。
+&#8194;&#8194;&#8194;&#8194;译文对于原诗有所改动，主要表现在原诗感情更为热烈直接，在第二段和第三段末尾各用一个感叹号，这两句的抒情是并列的。我将第二句末尾的感叹号弃去，使得感情一直酝酿，直到末尾才一同迸发出来。
+&#8194;&#8194;&#8194;&#8194;此外，像原诗中反复使用的“My beloved”这样的词语，不太符合国人的表达习惯，在我看到的其他译诗中，亦对于这个单词多跳过不译。故只在诗尾保留一个“亲爱的”，以表示此时的感情已经无以抑制，直抒而出。这和上面提到的感情的变奏一致。
+
+二、
+
+>The lake Isle of Innisfree
+>
+>I will arise and go now, and go to Innisfree.
+And a small cabin build there, of clay and wattles made.
+Nine bean-rows will I have there, a hive for the honey-bee.
+And live in the bee-loud glade.
+>
+>And I shall have some peace there, for peace comes dropping slow,
+Dropping from the veils of the morning to where the crickets sings;
+There midnight's all a glimmer, and noon a purple glow,
+And evening full of the linnets's wings.
+>
+>I will arise and go now, for always night and day
+I hear lake water lapping with low sounds by the shore;
+While I stand on the roadway, or on the pavements grey,
+I hear it in the deep heart's core.
+
+&#8194;&#8194;&#8194;&#8194;首先，我要向你们展示我认为最好的一版译文：
+
+茵尼斯弗利岛
+
+我要起身走了，往茵尼斯弗利岛
+用泥土和枝条，搭建起一座小屋
+我要有九排芸豆架，一个蜜蜂巢
+在林间听群蜂高唱，独居于幽处
+
+于是我将会有安宁，安宁慢慢来到
+从晨曦的面纱，到蟋蟀歌唱的地方
+午夜一片闪光，中午有紫霞燃烧
+暮色里，到处飞舞着云雀的翅膀
+
+我要起身走了，因为我总是听到
+听到湖水日夜轻轻拍打着湖滨
+我站在公路，或在灰色的人行道
+我心灵深处总听见那波涛声声
+
+然后奉上自己的译文：
+
+茵尼斯弗利湖岛
+
+我要动身出发，前往茵尼斯弗利岛
+用泥土和枝条，搭建起一座小屋
+我会有九排豌豆架，一个蜜蜂巢
+伴着蜂声阵阵，隐居在林间
+
+从晨曦的面纱到蟋蟀歌唱的地方
+安宁将慢慢降临
+午夜微光闪烁，正午有紫辉遍散
+黄昏中，到处交织着红雀的翅膀
+
+我要动身走了，因为我总是听到
+听到湖水轻抚湖岸，发出低沉声响
+当我站在公路上，或是在灰色的人行道
+在内心深处，总响着声声波涛
+
+&#8194;&#8194;&#8194;&#8194;叶芝的童年有一部分在爱尔兰乡间度过，当地的风景人情对他产生了重要的影响。1895年叶芝随家庭移居伦敦，看到了19世纪末以伦敦为代表的英国社会的萧条景象，产生了对都市生活现实的不满。因此他通过虚构茵尼斯弗利岛这一理想世界，表现了对城市生活的厌倦，对于理想生活的向往，对于美的无限渴望以及执着追求。同时体现出了一种脱离现实的倾向。
+&#8194;&#8194;&#8194;&#8194;我举出的译诗之所以出色，在于其特为和谐的节奏和韵律。包括“在林间听群蜂高唱，独居于幽处”这样的句子，但其对于语句顺序的处理有不恰当的地方。比如“Dropping from the veils of the morning to where the crickets sings”一句本应服务于上文的“And I shall have some peace there, for peace comes dropping slow”，但译文翻译的方式会让人觉得其服务的目标为下一句“午夜一片闪光，正午有紫霞燃烧”。同时“独居于幽处”一句本应是一小段的结尾，但这样的结尾十分突兀，如果将下一句“于是我将会有安宁，安宁慢慢来到”连起来看，就比较和谐。但这两句实际上处于两个不同的小段。
+&#8194;&#8194;&#8194;&#8194;此外值得指出的就是，这首诗的特点就是遣词朴素、自然，没有精心安排句子的节奏，使用华美繁复的辞藻，英文原文甚至接近于白话，正因这样才能在平淡中见真挚。因此若翻译的过于追求真实平淡。则近于枯燥，如果对语句修饰过度，就像在一张和谐自然的脸上画上掉品味的妆容。违背了我们说的：“清水出芙蓉，天然去雕饰”。因此如何把握诗句美感与自然流露的感情之间的平衡，就显得尤为重要。
+
+
+
+
+
+
 
