@@ -3,6 +3,7 @@ title: 叶芝自译
 categories: "白鸟小诗"
 tags: ["叶芝"]
 ---
+
 **什么是白鸟小诗？**
 &#8194;&#8194;&#8194;&#8194;诗歌推荐。
 **写在前面**
@@ -114,25 +115,26 @@ I hear it in the deep heart's core.
 我要动身走了，因为我总是听到
 听到湖水轻抚湖岸，发出低沉声响
 当我站在公路上，或是在灰色的人行道
-在内心深处，总响着声声波涛
+内心深处，总响着声声波涛
 
 &#8194;&#8194;&#8194;&#8194;叶芝的童年有一部分在爱尔兰乡间度过，当地的风景人情对他产生了重要的影响。1895年叶芝随家庭移居伦敦，看到了19世纪末以伦敦为代表的英国社会的萧条景象，产生了对都市生活现实的不满。因此他通过虚构茵尼斯弗利岛这一理想世界，表现了对城市生活的厌倦，对于理想生活的向往，对于美的无限渴望以及执着追求。同时体现出了一种脱离现实的倾向。
 &#8194;&#8194;&#8194;&#8194;我举出的译诗之所以出色，在于其特为和谐的节奏和韵律。包括“在林间听群蜂高唱，独居于幽处”这样的句子，但其对于语句顺序的处理有不恰当的地方。比如“Dropping from the veils of the morning to where the crickets sings”一句本应服务于上文的“And I shall have some peace there, for peace comes dropping slow”，但译文翻译的方式会让人觉得其服务的目标为下一句“午夜一片闪光，正午有紫霞燃烧”。同时“独居于幽处”一句本应是一小段的结尾，但这样的结尾十分突兀，如果将下一句“于是我将会有安宁，安宁慢慢来到”连起来看，就比较和谐。但这两句实际上处于两个不同的小段。
 &#8194;&#8194;&#8194;&#8194;此外值得指出的就是，这首诗的特点就是遣词朴素、自然，没有精心安排句子的节奏，使用华美繁复的辞藻，英文原文甚至接近于白话，正因这样才能在平淡中见真挚。因此若翻译的过于追求真实平淡。则近于枯燥，如果对语句修饰过度，就像在一张和谐自然的脸上画上掉品味的妆容。违背了我们说的：“清水出芙蓉，天然去雕饰”。因此如何把握诗句美感与自然流露的感情之间的平衡，就显得尤为重要。
 
 三、
-The Sorrow of Love
-The brawling of a sparrow in the eaves,
+>The Sorrow of Love
+>
+>The brawling of a sparrow in the eaves,
 The brilliant moon and all the milky sky,
 And all that famous harmony of leaves,
 Had blotted out man's image and his cry.
-
-A girl arose that had red mournful lips,
+>
+>A girl arose that had red mournful lips,
 And seemed the greatness of world in tears,
 Doomed like Odysseus and the laboring ships,
 And proud as Priam murdered with his peers;
-
-Arose, and on instant clamorous eaves,
+>
+>Arose, and on instant clamorous eaves,
 A climbing moon upon an empty sky,
 And all that lamentation of the leaves,
 Could but compose man's image and his cry. 
@@ -142,7 +144,7 @@ Could but compose man's image and his cry.
 屋檐下一只麻雀喧闹不休
 明月皎皎，如水夜空
 万籁俱寂，唯有树叶窸窣
-隔绝了人的影像，和刻骨伤痛
+隔绝了人的影像，和刻骨痛伤
 
 一位少女身影浮现，红唇含着哀婉
 仿佛将人世的全部伟大
