@@ -122,6 +122,7 @@ I hear it in the deep heart's core.
 &#8194;&#8194;&#8194;&#8194;此外值得指出的就是，这首诗的特点就是遣词朴素、自然，没有精心安排句子的节奏，使用华美繁复的辞藻，英文原文甚至接近于白话，正因这样才能在平淡中见真挚。因此若翻译的过于追求真实平淡。则近于枯燥，如果对语句修饰过度，就像在一张和谐自然的脸上画上掉品味的妆容。违背了我们说的：“清水出芙蓉，天然去雕饰”。因此如何把握诗句美感与自然流露的感情之间的平衡，就显得尤为重要。
 
 三、
+
 >The Sorrow of Love
 >
 >The brawling of a sparrow in the eaves,
@@ -160,6 +161,134 @@ Could but compose man's image and his cry.
 &#8194;&#8194;&#8194;&#8194;这首诗是叶芝的第二本集子《The Rose》中的作品，同样是一首情诗，本诗没有继承《The White Bird》中的浪漫、深情、瑰丽想象、满腔热忱，而是将关注的视角下沉到自己的内心，以第三人称的角度描摹环境，关注心境。诗中使用的“MAN”实际上就是诗人自己。虽然诗名中有“Sorrow”，但是可以看出诗人的感情并没有溺于悲伤之中，而是显得相当理性、克制。多读几遍，很容易看出《The White Bird》与此诗之间的不同，这首诗超越了诗人自身早期的朴素浪漫主义，无疑是诗艺上的一次升华。
 &#8194;&#8194;&#8194;&#8194;翻译此诗，我认为最重要的是译意。原诗中使用单词的特点就是简单但恰到好处，如“milky”、“blotted out”、“all the harmony”，“man's image and cry”等单词和词组难以直译，如何挑选汉语词汇以较为准确地模拟诗人的原意成为头号难题。此外，对于西方文化背景的了解将有助于理解本诗，浅显的比如奥德修斯、普里阿摩斯二人的境遇（希腊神话中的人物），深层次的比如毛德·冈在爱尔兰的民族解放运动中展现的精神和主张，以及叶芝对此的态度等。
 &#8194;&#8194;&#8194;&#8194;实际上，在诗人晚年时曾将此诗改出第二个版本，第二个版本显出相当的厚重、苍凉，充满对岁月与命运的反复思考，是青年叶芝无论如何写不出来的，读者可自行查找阅览。
+
+四、
+
+>The Stolen Child
+>
+>Where dips the rocky highland
+Of Sleuth Wood in the lake,
+There lies a leafy island
+Where flapping herons wake
+The drowsy water rats;
+There we've hid our faery vats,
+Full of berrys
+And of reddest stolen cherries.
+Come away, O human child!
+To the waters and the wild
+With a faery, hand in hand,
+For the world's more full of weeping 
+than you can unterstand
+>
+>Where the wave of moonlight glosses
+The dim grey sands with light,
+Far off by furthest Rosses
+We foot it all the night,
+Weaving olden dances
+Mingling hands and mingling glances
+Till the moon has taken flight;
+To and fro we leap
+And chase the frothy bubbles,
+While the world is full of troubles
+And is anxious in its sleep
+Come away, O human child!
+To the waters and the wild
+With a faery, hand in hand,
+For the world's more full of weeping than you can understand.
+>
+>Where the wandering water gushes
+From the hills above Glen-Car,
+In pools among the rushes
+That scarce could bathe a star,
+We seek for slumbering trout
+And whispering in their ears
+Give them unquiet dreams;
+Leaning softly out
+From ferns that drop their tears
+Over the young streams.
+Come away, O human child!
+To the waters and the wild
+With a faery, hand in hand,
+For the world's more full of weeping than you can understand
+>
+>Away with us he's going,
+The solemn-eyed:
+He'll hear no more the lowing
+Of the calves on the warm hillside
+Or the kettles on the hob
+Sing peace into his breast,
+Or see the brown mice bob
+Round and round the oatmeal chest.
+For he comes, the human child,
+To the waters and the wild
+With a faery, hand in hand,
+For the world's more full of weeping than he can understand
+
+失窃的孩子
+
+在岩石料峭的史留斯伍德高地
+湖水中浮着一座绿叶葱茏的小岛
+在那儿苍鹭飞掠，惊醒贪睡的河鼠
+我们在魔桶中藏起了满满的浆果
+以及偷来的
+红透了的樱桃
+*一起来吧，人类的孩子，*
+*来到郊野和河流*
+*和精灵手牵着手*
+*只因这世界溢满了悲伤，而你不懂。*
+
+月辉流荡之地
+灰白的沙滩反射着黯光
+在那遥远的玫瑰园中
+我们彻夜跳舞，直到天明
+古老的舞步错落交织
+旋摆手臂，漂移目光
+直到月亮离去
+我们来回跳跃
+追逐着晶亮的气泡
+但这世界却满是烦恼
+睡梦中也难觅安宁
+*一起来吧，人类的孩子，*
+*来到郊野和河流*
+*和精灵手牵着手*
+*只因这世界溢满了悲伤，而你不懂。*
+
+从格兰卡的山丘上
+汩汩溪水蜿蜒而下
+流进水草丛生的深潭
+仅供一颗星星游泳
+我们寻找沉睡着的鲑鱼
+在它们耳边窃窃低语
+扰动它们平静的梦
+轻轻地斜倚在蕨草上
+看它们的泪水
+落进年轻的溪流
+*一起来吧，人类的孩子，*
+*来到郊野和河流*
+*和精灵手牵着手*
+*只因这世界溢满了悲伤，而你不懂。*
+
+那个眼神庄重的孩子
+正和我们一起走着
+他再也听不到
+温暖的山坡上牛群的轻眸
+或者水壶在炉子上的声响
+（曾在他心中带来安宁）
+他再也看不到
+棕色的老鼠在
+盛燕麦的箱子外蹦跳
+*只因他已经走来了，那人类的孩子，*
+*来到郊野和河流*
+*和精灵手牵着手*
+*这世界溢满了悲伤，他不懂。*
+
+&#8194;&#8194;&#8194;&#8194;这首诗第一次发表于1886年十二月爱尔兰报刊《Irish Monthly》上，然后在1888年被一本收录了几个爱尔兰诗人诗作的诗集《Poems and Ballad of Young Ireland》记载，并附带几位诗歌批评家的评论。随后被收录于叶芝的第一本诗集《The Wanderings of Oisin and Other Poems》中。
+&#8194;&#8194;&#8194;&#8194;《The Stolen Child》被认为是叶芝早期诗作中最具代表性的诗歌之一。基于一个主题为“精灵将儿童引诱至荒野”的爱尔兰民间传说所作（我希望你已经发现了这首诗的第一人称不是人类）。叶芝对于爱尔兰的民间传说和神话研究颇深，不仅在诗歌中常常引用这类素材，还另有几本研究著作：1888年的《Fairy and Folk Tales of the Irish Peasantry》以及1892年的《Fairy Folk Tales of Ireland》，国内能买得到的是《凯尔特的薄暮》，一本包装精美的薄薄的小册子，不过两百多页，上面记叙着叶芝在爱尔兰乡下生活时的一些奇异经历以及见闻。形式偏向于散文和随笔，在闲来无事时不妨一读。
+&#8194;&#8194;&#8194;&#8194;说回这首诗，晚年的叶芝才以象征主义诗派的一个重要诗人的形象出现在诗坛中，人们对于他前期的印象大多停留在浪漫主义的华丽风格中。但象征主义、神秘主义的种子在诗人年轻时就已埋下，这首《失窃的孩子》就是明证（1886年叶芝二十一岁）。这首诗在风格上采用象征主义的手法，但是抒发的情感同《茵尼斯弗利岛》一脉相承，都表达了叶芝对尘世之外的幻想乡的无忧无虑的生活的向往，对这充满忧虑、痛苦的人间的逃避倾向。对幻想乡的想象奇特丰富，浪漫瑰丽，同时又从乡间生活中汲取素材，将精灵们的郊野生活描绘的清新自然，富有生趣。值得注意的是，本诗采用叠句的手法，对于同一段话反复吟咏，同时韵律感特为强烈，几乎每一句都带有韵脚，因此读者应当反复阅读原文，感受在重复间逐渐递进的感情。
+
+
+
+
 
 
 
