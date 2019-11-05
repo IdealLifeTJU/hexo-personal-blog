@@ -114,7 +114,7 @@ I hear it in the deep heart's core.
 
 我要动身走了，因为我总是听到
 听到湖水轻抚湖岸，发出低沉声响
-当我站在公路上，或是在灰色的人行道
+当我站在公路上，或是灰色的人行道
 内心深处，总响着声声波涛
 
 &#8194;&#8194;&#8194;&#8194;叶芝的童年有一部分在爱尔兰乡间度过，当地的风景人情对他产生了重要的影响。1895年叶芝随家庭移居伦敦，看到了19世纪末以伦敦为代表的英国社会的萧条景象，产生了对都市生活现实的不满。因此他通过虚构茵尼斯弗利岛这一理想世界，表现了对城市生活的厌倦，对于理想生活的向往，对于美的无限渴望以及执着追求。同时体现出了一种脱离现实的倾向。
@@ -256,7 +256,7 @@ For the world's more full of weeping than he can understand
 从格兰卡的山丘上
 汩汩溪水蜿蜒而下
 流进水草丛生的深潭
-仅供一颗星星游泳
+仅容一颗星星游泳
 我们寻找沉睡着的鲑鱼
 在它们耳边窃窃低语
 扰动它们平静的梦
@@ -286,6 +286,107 @@ For the world's more full of weeping than he can understand
 &#8194;&#8194;&#8194;&#8194;《The Stolen Child》被认为是叶芝早期诗作中最具代表性的诗歌之一。基于一个主题为“精灵将儿童引诱至荒野”的爱尔兰民间传说所作（我希望你已经发现了这首诗的第一人称不是人类）。叶芝对于爱尔兰的民间传说和神话研究颇深，不仅在诗歌中常常引用这类素材，还另有几本研究著作：1888年的《Fairy and Folk Tales of the Irish Peasantry》以及1892年的《Fairy Folk Tales of Ireland》，国内能买得到的是《凯尔特的薄暮》，一本包装精美的薄薄的小册子，不过两百多页，上面记叙着叶芝在爱尔兰乡下生活时的一些奇异经历以及见闻。形式偏向于散文和随笔，在闲来无事时不妨一读。
 &#8194;&#8194;&#8194;&#8194;说回这首诗，晚年的叶芝才以象征主义诗派的一个重要诗人的形象出现在诗坛中，人们对于他前期的印象大多停留在浪漫主义的华丽风格中。但象征主义、神秘主义的种子在诗人年轻时就已埋下，这首《失窃的孩子》就是明证（1886年叶芝二十一岁）。这首诗在风格上采用象征主义的手法，但是抒发的情感同《茵尼斯弗利岛》一脉相承，都表达了叶芝对尘世之外的幻想乡的无忧无虑的生活的向往，对这充满忧虑、痛苦的人间的逃避倾向。对幻想乡的想象奇特丰富，浪漫瑰丽，同时又从乡间生活中汲取素材，将精灵们的郊野生活描绘的清新自然，富有生趣。值得注意的是，本诗采用叠句的手法，对于同一段话反复吟咏，同时韵律感特为强烈，几乎每一句都带有韵脚，因此读者应当反复阅读原文，感受在重复间逐渐递进的感情。
 
+五、
+
+>Adam's Curse
+>
+>We sat together at one summer's end,
+That beautiful mild woman, your close friend,
+And you and I, and talked of poetry.
+I said, 'A line will take us hours maybe;
+Yet if it does not seem a moment's thought,
+Our stitching and unstitching has been naught.
+Better go down upon your marrow-bones
+And scrub a kitchen pavement, or break stones
+Like an old pauper, in all kinds of weather;
+For to articulate sweet sounds together
+Is to work harder than all these, and yet
+Be thought an idler by the noise set
+Of bankers, schoolmasters, and clergymen
+The martys call the world.'
+>
+>#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;&#8194;And thereupon
+That beautiful mild woman for whose sake
+There's many a one shall find our all heartache
+On finding that her voice is sweet and low
+Replied, 'To be born woman is to know——
+Although they do not talk of it at school——
+That we must labour to be beautiful.'
+I said, 'It's certain there is no fine thing
+Since Adam's fall but needs much labouring.
+There have been lovers who thought love should be
+So much compounded of high courtesy
+That they would sigh and quote with learned looks
+Precedents out of beautiful old books;
+Yet now it seems an idle trade enough.'
+>
+>We sat grown quiet at the name of love;
+We saw the last embers of daylight die,
+And in the trembling blue-green of the sky
+A moon, worn as if it had been a shell
+Washed by time's waters as they rose and fell
+About the stars and broke in days and years.
+>
+>I had a thought for no one's but your ears:
+That you were beautiful, and that I strove
+To love you in the old high way of love;
+That it had all seemed happy, and yet we'd grown
+As weary-hearted as that hollow moon.
+
+亚当的诅咒
+
+那年夏末我们一起闲坐
+你和我，以及你的密友，
+那位漂亮、文雅的女士
+随意聊聊诗歌
+我说：
+“为一行诗我们可能苦思几个小时
+但要是读起来不像信笔写成
+这些推敲就全无价值
+不如弓起脊背清洁厨房
+或是像贫苦的老人那样，
+日日采石，风雨无阻
+为将所有悦耳的音节连缀
+甚或要付出更多辛勤
+就算如此，仍然要被那些
+嘈杂之音指责为闲汉
+正是银行家、校长、牧师
+殉道者所谓的世人。”
+
+话音刚落，那位美丽温和的女士
+（一旦发现她的声音如此甜美,
+许多人的心会悸动不已）
+回复道：
+“尽管学校从不教习，
+但女人们生来就知道——
+为美貌必须劳心费力。”
+我回答：“
+我断言自从亚当堕落
+再无丰美的果实毋需辛勤劳作
+过去的恋人们曾经认为
+爱就是高贵仪态的综合
+因此他们长吁短叹，以饱学的姿态
+从包装精致的古书中援引先例
+现在看来却不值一提。”
+
+一谈起爱情，
+我们便沉默不语
+坐看暮光直到消逝
+在飘曳着蓝绿色的天际
+月亮升起，消磨的如同一枚贝壳
+（时间的潮水在群星之间起落）
+任由冲洗，随着年月默默破损
+
+我有一语，只说给你听
+那就是你如此美丽，我尽力
+以古老高贵的方式爱你
+这看起来皆大欢喜，
+但我们最终却内心疲乏
+如同一轮空洞的月亮
+
+&#8194;&#8194;&#8194;&#8194;这首诗做于Maud Gonne与John MacBride结婚前夕，在本诗中叶芝描述了与Maud Gonne及Kathleen Pilcher的一次聚会。与其说是一首典型的诗，不如说是叶芝写给Maud的一封诗歌体书信，概因描述和对话部分所占的比重太大。……不过也是时候把目光从诗歌本身移开，来看看诗歌的创作。在本诗中，叶芝鲜明地展现了他对于文艺创作的态度，那就是艺术的产生需要经过艺术家殚竭心力的付出的投入和打磨，绝不是随便就从自然中获得的。虽然就我对于叶芝本人观点来说，这位诗人身上并不具有显著的作家的特质，也很难想象他具有职业作家的那种严谨缜密的态度，他对于诗歌创作的表述更多地还是出自于诗人的联想、不自觉的修饰以及浪漫主义的美化、拔高——叶芝是那种凭借天才、激情和幻想写作的诗人，在他身上感性的作用大于理性，很难想象他会像老杜那样把诗歌创作当成一种细致有序的流程，刻意打磨每个细节，且对于成品有近乎偏执的“语不惊人死不休”的追求。但是，叶芝的这种将创作当成“labouring”的态度已然显示出他本人并非像一般上流阶级那样仅仅将诗歌当成一种爱好与玩赏——当然，对于一位伟大诗人来说，这是自不必提的。
+&#8194;&#8194;&#8194;&#8194;此外值得一提的就是在这种诗中叶芝对于一般劳动者和“Bankers, schoolmasters and clergymen”们的态度。符合于他把自己看做中世纪贵族的最后继承人的印象，虽然这在我们现代人看来有些一言难尽。
+&#8194;&#8194;&#8194;&#8194;这首诗整体上的艺术价值并不高。
 
 
 
