@@ -1,6 +1,8 @@
 ---
 title: 叶芝自译
 categories: "白鸟小诗"
+date: 2019-10-1
+updated: 2019-11-30
 tags: ["叶芝"]
 ---
 
@@ -360,8 +362,8 @@ As weary-hearted as that hollow moon.
 “尽管学校从不教习，
 但女人们生来就知道——
 为美貌必须劳心费力。”
-我回答：“
-我断言自从亚当堕落
+我回答：
+“我断言自从亚当堕落
 再无丰美的果实毋需辛勤劳作
 过去的恋人们曾经认为
 爱就是高贵仪态的综合
@@ -384,9 +386,76 @@ As weary-hearted as that hollow moon.
 但我们最终却内心疲乏
 空洞，如那轮月亮挂在天际。
 
-&#8194;&#8194;&#8194;&#8194;这首诗做于Maud Gonne与John MacBride结婚前夕，在本诗中叶芝描述了与Maud Gonne及Kathleen Pilcher的一次聚会。与其说是一首典型的诗，不如说是叶芝写给Maud的一封诗歌体书信，概因描述和对话部分所占的比重太大。……不过也是时候把目光从诗歌本身移开，来看看诗歌的创作。在本诗中，叶芝鲜明地展现了他对于文艺创作的态度，那就是艺术的产生需要经过艺术家殚竭心力的付出的投入和打磨，绝不是随便就从自然中获得的。虽然就我对于叶芝本人观点来说，这位诗人身上并不具有显著的作家的特质，也很难想象他具有职业作家的那种严谨缜密的态度，他对于诗歌创作的表述更多地还是出自于诗人的联想、不自觉的修饰以及浪漫主义的美化、拔高——叶芝是那种凭借天才、激情和幻想写作的诗人，在他身上感性的作用大于理性，很难想象他会像老杜那样把诗歌创作当成一种细致有序的流程，刻意打磨每个细节，且对于成品有近乎偏执的“语不惊人死不休”的追求。但是，叶芝的这种将创作当成“labouring”的态度已然显示出他本人并非像一般上流阶级那样仅仅将诗歌当成一种爱好与玩赏——当然，对于一位伟大诗人来说，这是自不必提的。
-&#8194;&#8194;&#8194;&#8194;此外值得一提的就是在这种诗中叶芝对于一般劳动者和“Bankers, schoolmasters and clergymen”们的态度。符合于他把自己看做中世纪贵族的最后继承人的印象，虽然这在我们现代人看来有些一言难尽。
-&#8194;&#8194;&#8194;&#8194;这首诗整体上的艺术价值并不高。
+&#8194;&#8194;&#8194;&#8194;这首诗做于Maud Gonne与John MacBride结婚前夕，在本诗中叶芝描述了与Maud Gonne及Kathleen Pilcher的一次聚会。与其说是一首典型的诗，不如说是叶芝写给Maud的一封诗歌体书信，概因描述和对话部分所占的比重太大。……不过也是时候把目光从诗歌本身移开，来看看诗歌的创作。在本诗中，叶芝鲜明地展现了他对于文艺创作的态度，那就是艺术的产生需要经过艺术家殚竭心力的付出的投入和打磨，绝不是随便就从自然中获得的。虽然就我对于叶芝本人观点来说，这位诗人身上并不具有显著的作家的特质，也很难想象他具有职业作家的那种严谨缜密的态度，他对于诗歌创作的表述更多地还是出自于诗人的联想、不自觉的修饰以及浪漫主义的美化、拔高——叶芝是那种凭借天才、激情和幻想写作的诗人，在他身上感性的作用大于理性，很难想象他会像老杜那样把诗歌创作当成一种细致有序的流程，刻意打磨每个细节，且对于成品有近乎偏执的“语不惊人死不休”的追求。但是，叶芝的这种将创作当成“labouring”的态度已然显示出他本人并非像一般上流阶级那样仅仅将诗歌当成一种爱好与玩赏——当然，对于一位伟大诗人来说，这是自不必提的。这也提示我们每个诗歌爱好者，诗表面上看起来是偶然拂过草尖的一缕微风，但它们背后是诗人无数的积累和积极进取、探索，倘若对诗歌创作报以严肃的态度，万不可以资产阶级的“情趣”式态度面对，当成人生中的一种消遣或是爱好，闲适寄兴的所在，即使是天才型的诗人，也是在揣摩了许多知识之后才真正地懂得如何创作——天才或许能引领你进门，但不足以让你登堂入室。
+&#8194;&#8194;&#8194;&#8194;此外值得一提的就是在这种诗中叶芝对于一般劳动者和“Bankers, schoolmasters and clergymen”（小资产阶级）们的态度。符合于他把自己看做中世纪贵族的最后继承人的印象，虽然这在我们现代人看来有些一言难尽。
+&#8194;&#8194;&#8194;&#8194;我认为这首诗整体上的艺术价值并不高，但在倒数第二节仍然能显出诗人的天才和悟力。 
+
+六、
+
+>The Indian to His Love
+>
+>The island dreams under the dawn
+And great boughts drop tranquillity
+The peahens dance on a smooth lawn,
+A parrot sways upon a tree,
+Raging at his own image in the enamelled sea.
+>
+>Here we will moor out lonely ship
+And wander ever with woven hands,
+Murmuring softly lip to lip
+Along the grass, along the sands,
+Murmuring how far away are the unquiet lands:
+>
+>How we alone for mortals are
+Hid under quiet boughts apart,
+While our love grows an Indian star,
+A meteor of the burning heart,
+One with the tide that gleams, the wings that gleam and dart,
+>
+>The heavy boughts, the burnished dove
+That moans and sighs a hundred days:
+How when we die our shades will rove,
+When eve has hushed the feathered ways,
+With vapoury footsole by the water's drowsy blaze.
+
+印度人致所爱
+
+清晨时岛屿仍然安睡
+巨大的枝梢间静谧投落
+雌孔雀在平坦的草丛上
+缓步起舞
+树上一只鹦鹉对着它
+涂釉般海面中的倒影
+情不自禁地摇摆
+
+在这里我们将孤舟停泊
+手挽手四处漫游
+轻声倾诉心语
+穿过草地，穿过沙滩
+追问春天的园地还有多远
+
+我们是多么孤独的凡人啊
+在幽静的树荫下各自隐匿
+当我们的爱升入印第安天空
+长成一颗炽热的心的流星
+带着明灭不定的汐流，尾翼摇曳生辉
+
+沉重的树枝，明艳的鸽子
+悲叹呻吟已一百余日
+若我们死去，我们的影子会如何流浪
+当暮霭阻住了羽族的路
+水面昏暗的辉光中
+印出了模糊的足迹
+
+总有点不满意……这篇很难。
+
+
+
+
+
+
+
+
 
 
 
