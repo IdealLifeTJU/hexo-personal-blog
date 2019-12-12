@@ -2,7 +2,7 @@
 title: 叶芝自译
 categories: "白鸟小诗"
 date: 2019-10-1
-updated: 2019-11-30
+updated: 2019-12-12
 tags: ["叶芝"]
 ---
 
@@ -426,18 +426,18 @@ With vapoury footsole by the water's drowsy blaze.
 缓步起舞
 树上一只鹦鹉对着它
 涂釉般海面中的倒影
-情不自禁地摇摆
+情不自禁地摇动
 
 在这里我们将孤舟停泊
 手挽手四处漫游
 轻声倾诉心语
 穿过草地，穿过沙滩
-追问春天的园地还有多远
+追问那春天的园地还有多远
 
-我们是多么孤独的凡人啊
+多么孤独的凡人啊，我们
 在幽静的树荫下各自隐匿
 当我们的爱升入印第安天空
-长成一颗炽热的心的流星
+化成一颗炽热的心的流星
 带着明灭不定的汐流，尾翼摇曳生辉
 
 沉重的树枝，明艳的鸽子
@@ -448,6 +448,93 @@ With vapoury footsole by the water's drowsy blaze.
 印出了模糊的足迹
 
 总有点不满意……这篇很难。
+
+七、
+
+>The Wild Swans at Coole
+>
+>The trees are in their autumn beauty,
+The woodland paths are dry,
+Under the October twilight the water
+Mirrors a still sky;
+Upon the brimming water among the stones
+Are nine-and-fifty swans.
+>
+>The nineteenth autumn has come upon me
+Since I first made my count;
+I saw, before I had well finished,
+All suddenly mount
+And scatter wheeling in great broken rings
+Upon their clamorous wings.
+>
+>I have looked upon those brilliant creatures
+And now my heart is sore.
+All's changed since I, hearing at twillight,
+The first time on this shore,
+The bell-beat of their wings above my head,
+Trod with a lighter tread.
+>
+>Unwearied still, lover by lover,
+They paddle in the cold
+Companionable streams or climb the air;
+Their hearts have not grown old;
+Passion or conquest, wander where they will,
+Attend upon them still.
+>
+>But now they drift on the still water,
+Mysterious, beautiful;
+Among what rushes will they build,
+By what lake's edge or pool
+Delight men's eyes, when I awake some day
+To find they have flown away.
+
+柯尔的野天鹅
+
+树木已染上秋色了
+林间小径变得干燥
+十月的暮光中
+湖面绘出了平静的天空
+石岸间满盈的湖水上
+五十九只野天鹅
+
+第十九个秋天已经降临于我
+自第一次为它们计数以后
+在完毕之前，我看到
+群鹄的乍起
+以它们嘈杂的羽翼
+分散成一个巨大破碎的圆环
+
+我曾目睹过这些光辉的生灵
+但如今心中却一片酸楚
+一切都已改变，从我
+黄昏中在同样的岸边
+听它们钟鸣般的振翅的声音
+从我头上掠过
+那时我脚步还轻盈
+
+不知疲倦地，它们成双
+在寒冷可亲的水波上浮游
+或在空中爬升
+它们的心还未老
+任意游荡到何处
+总带着激情和雄心
+
+但现在它们在静寂的水上浮行
+神秘，优雅
+当我某日醒来
+发现它们已杳无踪影
+栖身于哪座湖泊，哪片水草
+点亮了人们的眼睛？
+
+&#8194;&#8194;&#8194;&#8194;柯尔的野天鹅约做于1916至1917年，在1917年6月的《Little Review》上首次发表，且成为了叶芝随后发布的诗集中的title poem。
+&#8194;&#8194;&#8194;&#8194;提到柯尔庄园就不能不约略提几句Lady Gregory，夫人是一位爱尔兰戏剧家，民族主义者以及剧院经理。和叶芝共同建立过Irish Literary Theatre以及The Abbey Theatre，也写过为数不少的戏剧作品。在文学艺术方面，这位夫人是叶芝的知己、战友、同伴。二人文学志趣相同，三观高度一致，以二人为中心建立起当时爱尔兰一个颇有声势的艺术家团体（虽然爱尔兰诗人我只知道叶芝一个，可能其他人确实不太行)。此外生活上Gregory夫人也给予过叶芝颇多的照顾、支持。叶芝虽然精神上认为自己是古典贵族的末裔，可实际上Yeats这个姓并不代表贵族，Bulter虽然确实是个贵族家名，可是某代Yeats也只是娶了一个“descendant of an illegitimate brother of the 8th Earl of Ormond”。可见这个血缘关系之远。因此实际生活中，Butler Yeats家庭长久以来跟贵族二字沾不到半点关系，只是作为市民家庭生活，主业为商业、手工业、艺术——Butler Yeats家族素有文艺传统，叶芝其父弃法从艺，本人William——就是我们日常说的W.B.Yeats，是个享誉全球的大诗人，Yeats的兄弟Jack成为了一名画家，两个姐妹Elizabeth、Susan也都参与了20世纪初从英国发源的“工艺美术运动”。可见虽非高门望族，却也是书香门第。
+&#8194;&#8194;&#8194;&#8194;扯远了，与叶芝相比，这位Gregory夫人是个实打实的贵族，Roxborough家族在Gort与Loughrea地区有6000英亩封地（约24平方千米），此外从丈夫处继承柯尔公园中的庄园一座。在此处叶芝及其同侪常常举办文艺沙龙，从事文艺活动。叶芝本人也长年定居于此（？），收录此诗的诗集正是“be dedicated to”格里高利夫人的儿子——一位爱尔兰飞行员，在一战期间不幸在战斗中命中座机而丧生。
+&#8194;&#8194;&#8194;&#8194;伟大诗人的一个特征就是在不同年代创作不同风格的诗歌，且这些诗歌都能够到达艺术的高峰。叶芝的早期诗作引起人们对他的兴趣，后期诗作则完全确立了他在世界诗坛中的地位。《柯尔的野天鹅》正是创作于叶芝的知天命之年，为这一阶段的代表性作品，因此与其早期诗作有着艺术风格以及主题上的极大不同——描写年华消逝的哀伤，万事流变的惶恐，对生命、青春的热爱，对永恒之美的追寻。具体的分析我挂上三个外文网站，可以说对于这首诗歌分析的比较深入全面（需要科学上网法）：
+https://www.shmoop.com/wild-swans-at-coole/
+https://www.gradesaver.com/the-wild-swans-at-coole/study-guide/themes
+https://www.litcharts.com/poetry/william-butler-yeats/the-wild-swans-at-coole
+&#8194;&#8194;&#8194;&#8194;（上面第二个网站似乎是一个教育辅导类的网站，因此这首The Wild Swans at Coole很可能是英文国家课本中的常客，hh，想起了语文课上做诗歌赏析的日子，不同的大洲，同一款学生。
+&#8194;&#8194;&#8194;&#8194;对我个人而言，翻译这首诗歌是一个愉快的过程，它的主题宏大、饱满、庄严、深刻，表达方式却诚实可亲，此外还有我最喜欢的风景描写环节。并且，我看到了不少熟悉的古诗的影子。
 
 
 
