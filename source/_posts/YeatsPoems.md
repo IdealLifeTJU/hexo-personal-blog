@@ -4,6 +4,7 @@ categories: "白鸟小诗"
 date: 2019-10-1
 updated: 2019-12-12
 tags: ["叶芝"]
+cover: http://img.innisfreeisland.cn/YeatsPoemsCover.jfif
 ---
 
 **什么是白鸟小诗？**
@@ -528,7 +529,7 @@ To find they have flown away.
 
 &#8194;&#8194;&#8194;&#8194;柯尔的野天鹅约做于1916至1917年，在1917年6月的《Little Review》上首次发表，且成为了叶芝随后发布的诗集中的title poem。
 &#8194;&#8194;&#8194;&#8194;提到柯尔庄园就不能不约略提几句Lady Gregory，夫人是一位爱尔兰戏剧家，民族主义者以及剧院经理。和叶芝共同建立过Irish Literary Theatre以及The Abbey Theatre，也写过为数不少的戏剧作品。在文学艺术方面，这位夫人是叶芝的知己、战友、同伴。二人文学志趣相同，三观高度一致，以二人为中心建立起当时爱尔兰一个颇有声势的艺术家团体（虽然爱尔兰诗人我只知道叶芝一个，可能其他人确实不太行)。此外生活上Gregory夫人也给予过叶芝颇多的照顾、支持。叶芝虽然精神上认为自己是古典贵族的末裔，可实际上Yeats这个姓并不代表贵族，Bulter虽然确实是个贵族家名，可是某代Yeats也只是娶了一个“descendant of an illegitimate brother of the 8th Earl of Ormond”。可见这个血缘关系之远。因此实际生活中，Butler Yeats家庭长久以来跟贵族二字沾不到半点关系，只是作为市民家庭生活，主业为商业、手工业、艺术——Butler Yeats家族素有文艺传统，叶芝其父弃法从艺，本人William——就是我们日常说的W.B.Yeats，是个享誉全球的大诗人，Yeats的兄弟Jack成为了一名画家，两个姐妹Elizabeth、Susan也都参与了20世纪初从英国发源的“工艺美术运动”。可见虽非高门望族，却也是书香门第。
-&#8194;&#8194;&#8194;&#8194;扯远了，与叶芝相比，这位Gregory夫人是个实打实的贵族，Roxborough家族在Gort与Loughrea地区有6000英亩封地（约24平方千米），此外从丈夫处继承柯尔公园中的庄园一座。在此处叶芝及其同侪常常举办文艺沙龙，从事文艺活动。叶芝本人也长年定居于此（？），收录此诗的诗集正是“be dedicated to”格里高利夫人的儿子——一位爱尔兰飞行员，在一战期间不幸在战斗中命中座机而丧生。
+&#8194;&#8194;&#8194;&#8194;扯远了，与叶芝相比，这位Gregory夫人是个实打实的贵族，Roxborough家族在Gort与Loughrea地区有6000英亩封地（约24平方千米），此外从丈夫处继承柯尔公园中的庄园一座。在此处叶芝及其同侪常常举办文艺沙龙，从事文艺活动。叶芝本人也长年定居于此（？），收录此诗的诗集正是“be dedicated to”格里高利夫人的儿子——一位爱尔兰飞行员，在一战期间不幸在战斗中被友方击中座机而丧生。
 &#8194;&#8194;&#8194;&#8194;伟大诗人的一个特征就是在不同年代创作不同风格的诗歌，且这些诗歌都能够到达艺术的高峰。叶芝的早期诗作引起人们对他的兴趣，后期诗作则完全确立了他在世界诗坛中的地位。《柯尔的野天鹅》正是创作于叶芝的知天命之年，为这一阶段的代表性作品，因此与其早期诗作有着艺术风格以及主题上的极大不同——描写年华消逝的哀伤，万事流变的惶恐，对生命、青春的热爱，对永恒之美的追寻。具体的分析我挂上三个外文网站，可以说对于这首诗歌分析的比较深入全面（需要科学上网法）：
 https://www.shmoop.com/wild-swans-at-coole/
 https://www.gradesaver.com/the-wild-swans-at-coole/study-guide/themes
@@ -558,7 +559,71 @@ Suddenly I meet your face.
 
 艺术的魅力之一就在于，把日常生活中混乱、平庸的内心感受高度一般化、凝练化，以其一般性引发欣赏者自身的联想以及同理心。叶芝，一个生活于20世纪初的爱尔兰人所写下的句子，能够引发一个生活于百年之后的遥远国家、不同肤色、人种、使用不同语言、在不同文化中成长的人内心的类似情感，以其主旨来说有普遍性（描写思念），但更重要的是手法：诗歌语言的高度凝练，对于几组普遍意象（场景）的选取。倘若这首诗歌用长篇大论表达思念，使用具有一定特征的意象（比如，“在一场文艺沙龙中我恣意纵酒”），不会达到原诗所有的艺术效果。在叶芝的众多诗歌之中，这首短诗尤为特别，它的艺术价值不能说高，但所表达的思想应当是与现代人颇为接近的。我看重它的短小隽永，所谓意在言外，倘若读者心中有神思，寥寥几句自然可以引发无限联想，因此确实，特定的艺术吸引特定的受众，只因为艺术的创作交给作者，欣赏却交给受者，我认为在文艺活动进行的过程中，二者缺一不可。
 
+九、
 
+>
+>The Song of Wandering Aengus
+>
+>I went out to the hazel wood,
+Because a fire was in my head,
+And cut and peeled a hazel wand,
+And hooked a berry to a thread;
+And when white moths were on the wing,
+And moth-like stars were flickering out,
+I dropped the berry in a stream
+And caught a little silver trout.
+>
+>When I had laid it on the floor
+I went to blow the fire a-flame,
+But something rustled on the floor,
+And someone called me by my name:
+It had become a glimmering girl
+With apple blossom in her hair
+Who called me by my name and ran
+And faded through the brightening air.
+>
+>Though I am old with wandering
+Through hollow lands and hilly lands,
+I will find out where she has gone,
+And kiss her lips and take her hands;
+And walk among long dappled grass,
+And pluck till time and times are done,
+The sliver apples of the moon,
+The golden apples of the sun. 
+
+流浪者安格斯之歌
+
+走向榛木林
+因为我心中有团炙火
+斫下一根树枝，将它剥皮
+用线挂上一枚浆果
+当白色蛾子飞起时
+群星也如飞蛾摇曳闪烁
+将浆果投进溪流
+钓起一条小小的银鳟鱼
+
+把它放在地面上
+转身吹旺火焰
+突然身后发出沙沙声
+有人在叫我的名字
+它变成一位女孩，散发着微光
+发梢间戴一朵苹果花
+一边喊着我的名字，跑开了
+消失在渐明的天色中
+
+即使我已经苍老，四处漫游
+穿过平原，穿过山丘
+我会寻见她的踪迹
+吻她的嘴唇，牵她的手
+穿越长长的、阳光斑驳的青草
+直到时间尽头，不停地采摘
+月亮的银苹果
+太阳的金苹果
+
+&#8194;&#8194;&#8194;&#8194;这篇诗歌首次发表在英国杂志《The Sketch》上，当时所用的标题是“A Mad Song”。 然后被收录进叶芝1899年的诗集《The Wind Among the Reeds》中，那时已用了现在的标题。诗歌末两句乃名句，几十年以来广泛流传，为人称颂: The sliver apple of the moon, / The golden apples of the sun.
+&#8194;&#8194;&#8194;&#8194;在1899年给同侪诗人Dora Sigerson的信中，叶芝把这首诗称为“我自己最喜欢的那一类诗之一。”这首诗的灵感一开始来自于一首希腊民谣，但是叶芝在希腊民间信仰之中找到了和爱尔兰民间传说的相似之处，因此叶芝以爱尔兰的精神写下了这首诗，不过套用了民谣中的故事。
+&#8194;&#8194;&#8194;&#8194;希腊民谣被研究者指为“The Fruit of Apple Tree”，但安格斯这个名字却为一位爱尔兰本土神明所有，这位神明在传说中打败了本地部落the Fir Bolg之后征服了爱尔兰，祂被认为是爱情、青春以及美之神，在8世纪爱尔兰地区已经有关于安格斯的故事流传，其中一篇讲述祂爱上了一位只在梦里出现过的女子。
+&#8194;&#8194;&#8194;&#8194;以我个人来看，这篇诗歌并没有确切的主题或者想要表达的感情，它更多只是神话、意象、潜意识、诗人语境和模糊的理想的综合。但就行文上说干净易懂，语言单纯明白，再加上合理的遣词造句，仍然能成就其文学价值，同时又特益于理解、传颂。
 
 
 

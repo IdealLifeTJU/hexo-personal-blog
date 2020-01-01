@@ -1,8 +1,9 @@
 ---
 title: 我在苇名学打铁
 date: 2019-12-25
+updated: 2019-12-30
 categories: "茵岛游研"
-cover: http://img3.imgtn.bdimg.com/it/u=4257125877,305875606&fm=26&gp=0.jpg
+cover: http://img.innisfreeisland.cn/5.jfif
 ---
 
 &#8194;&#8194;&#8194;&#8194;走出幽暗地道，眼前豁然开朗。一轮圆月当空，冷光遍澈草原，芒草原地毯般无垠地铺展开去，微风拂过，这半人高的地毯也随之轻轻摇动，那轻晃的棉白不知是芒草本身，还是月光的浸染。
