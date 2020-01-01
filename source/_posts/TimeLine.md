@@ -1,5 +1,6 @@
 ---
 title: 时间轴
+cover: http://img.innisfreeisland.cn/gakkiTime.jpg
 ---
 
 ## 2019
