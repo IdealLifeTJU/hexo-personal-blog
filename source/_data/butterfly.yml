@@ -361,7 +361,7 @@ readmode:
 #字体设置
 font:
   enable: true
-  font-family: Roboto, PingFang SC, Hiragino Sans GB,"Microsoft JhengHei", "MicrMicrosoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif
+  font-family: Microsoft YaHei, STFangsong, STSong, AdobeSongStd-Light, Helvetica Neue, Helvetica, Arial, sans-serif
   code-font: consolas, Menlo, "PingFang SC", "Microsoft JhengHei","Microsoft YaHei", monospace, Helvetica Neue For Number
 
 
