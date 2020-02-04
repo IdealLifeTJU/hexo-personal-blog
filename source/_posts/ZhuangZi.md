@@ -1,6 +1,6 @@
 ---
 title: 读《庄子》而做的笔记
-date: 2020-2-2
+date: 2020-2-4
 categories: "豆架书屋"
 tags: ["读书笔记"]
 cover: http://img.innisfreeisland.cn/zhuangzi.jfif
