@@ -625,21 +625,22 @@ The golden apples of the sun.
 &#8194;&#8194;&#8194;&#8194;以我个人来看，这篇诗歌并没有确切的主题或者想要表达的感情，它更多只是神话、意象、潜意识、诗人语境和模糊的理想的综合。但行文干净易懂，语言单纯明白，再加上合理的遣词造句，仍然能成就其文学价值，同时又特益于理解、传颂。
 
 十、
-The Rose of The World
 
-Who dreamed that beauty passes like a dream?
+>The Rose of The World
+>
+>Who dreamed that beauty passes like a dream?
 For these red lips, with all their mournful pride,
 Mournful that no new wonder may betide,
 Troy passed away in one high funeral gleam,
 As Usna's children died.
-
-We and the labouring world are passing by:
+>
+>We and the labouring world are passing by:
 Amid men's souls, that waver and give place
 Like the pale waters in the wintry race,
 Under the passing stars, foam of the sky,
 Lives on this lonely face.
-
-Bow down, archangels, in your dim abode:
+>
+>Bow down, archangels, in your dim abode:
 Before you were, or any hearts to beat,
 Weary and kind one lingered by his seat;
 He made the world to be a grassy road
@@ -668,9 +669,10 @@ Before her wandering feet.
 &#8194;&#8194;&#8194;&#8194;因此他在这部诗集中对爱尔兰的颂扬，是高度象征主义、不含政治意义的。诗集的名称：The Rose 同时也是这些诗中共同的意象。叶芝以玫瑰表达很多事物，但其中永远包括原始的、古老的爱尔兰的美。爱尔兰在本地神话中被称为“Roisin Dubh”，爱尔兰语中意为“The Dark Rose”。把家乡的自然、历史变化到诗中，正是这些诗背后统一的创作动力。诺贝尔奖给叶芝的颁奖词正是：“由于他那永远充满着灵感的诗，它们透过高度的艺术形式展现了整个民族的精神。”就像玫瑰一样，叶芝的诗集是美丽、肉欲、多刺的。从整体上考虑，这些诗歌包含了青年叶芝对故乡永远的眷恋。
 
 十一、
-Sailing to Byzantium
 
-That is no country for old men. The young
+>Sailing to Byzantium
+>
+>That is no country for old men. The young
 In one another's arms, birds in the trees
 - Those dying generations - at their song,
 The salmon-falls, the mackerel-crowed seas,
@@ -678,8 +680,8 @@ Fish, flesh, or fowl, commend all summer long
 Whatever is begotten, born, and dies.
 Caught in that sensual music all neglect
 Monuments of unageing intellect
-
-An aged man is but a paltry thing,
+>
+>An aged man is but a paltry thing,
 A tattered coat upon a stick, unless
 Soul clap its hands and sing, and louder sing
 For every tatter in its mortal dress,
@@ -687,8 +689,8 @@ Nor is there singing school but studying
 Monuments of its own magnificence;
 And therefore I have sailed the seas and come
 To the holy city of Byzantium.
-
-O sages standing in God's holy fire
+>
+>O sages standing in God's holy fire
 As in the gold mosaic of a wall,
 Come from the holy fire, perne in a gyre,
 And be the singing-masters of my soul,
@@ -696,8 +698,8 @@ Consume my heart away; sick with desire
 And fastened to a dying animal
 It knows not what it is; and gather me
 Into the artifice of eternity.
-
-Once out of nature I shall never take
+>
+>Once out of nature I shall never take
 My bodily form from any natural thing,
 But such a form as Grecian goldsmiths make
 Of hammered gold and gold enamelling
