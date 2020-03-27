@@ -2,7 +2,7 @@
 title: 我用什么才能留住你
 date: 2020-3-24
 categories: "莎草纸稿"
-cover: http://img.innisfreeisland.cn/e4bbba38c2624e6491efbd2600bb6e6a.PNG
+cover: http://img.innisfreeisland.cn/StayYou.png
 ---
 
 写诗，就硬写。最近忙于别的事情而储备不足，还把用了三年的硬盘烧坏了……毕业之后再痛痛快快地看电影、读诗、读书、写诗吧。读这首之前，应当先读过博尔赫斯的《我用什么才能留住你》，他很出名的诗。
