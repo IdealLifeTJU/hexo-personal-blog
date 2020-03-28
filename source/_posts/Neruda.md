@@ -1,5 +1,5 @@
 ---
-title: 各国诗人巡礼之——聂鲁达（智利）
+title: 各国诗人巡礼之——巴勃罗·聂鲁达（智利）
 categories: "白鸟小诗"
 date: 2020-3-27
 cover: http://img.innisfreeisland.cn/Neruda.jpg
