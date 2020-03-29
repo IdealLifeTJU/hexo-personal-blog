@@ -2,7 +2,7 @@
 title: 卸载了大部分手机应用以后……
 date: 2020-3-17
 categories: "围炉夜话"
-cover:http://img.innisfreeisland.cn/RemoveAllApps.jpg
+cover: http://img.innisfreeisland.cn/RemoveAllApps.jpg
 ---
 
 **围炉夜话：** 生活杂谈。
