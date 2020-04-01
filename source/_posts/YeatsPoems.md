@@ -674,7 +674,7 @@ Before her wandering feet.
 >
 >That is no country for old men. The young
 In one another's arms, birds in the trees
-- Those dying generations - at their song,
+Those dying generations - at their song,
 The salmon-falls, the mackerel-crowed seas,
 Fish, flesh, or fowl, commend all summer long
 Whatever is begotten, born, and dies.
@@ -755,3 +755,33 @@ Of what is past, or passing, or to come.
 &#8194;&#8194;&#8194;&#8194;从这一节开始，诗人主观的抒情态度已经很明显，有限的人生充满了痛苦，纵情尽欢，终究抵挡不住时间的无情。与时间相比，肉体转瞬即逝。这样的肉体，被本能、欲望和感官刺激左右的肉体，把灵魂、精神禁锢其中而窒息的纯生物肉体，正是叶芝所弃绝的。要想超越这些苦恼与困惑，只有放弃那“执迷于六欲七情”的心，超越到永恒的人性之中。
 &#8194;&#8194;&#8194;&#8194;第四节继续表现诗人这种带有浓厚宗教意味的感悟：一旦我超脱了自然，我再也不要从任何自然物取得体形，而是要古希腊时代金匠所铸造锻金的和镀金那样的体型，使那个昏昏欲睡的皇帝清醒；或把我放在那金枝上歌吟，歌唱那过去和未来或者是当今，唱给拜占庭的老爷太太听。他站在人类历史现状与展望的语境下来思考人的物质存在和精神存在，即生存的意义问题：生与死、肉体与灵魂、此岸与彼岸、死亡与不朽……
 &#8194;&#8194;&#8194;&#8194;这首诗结构谨严，语言洗练，富于暗示意义，玄学与象征的意味很浓。用他自己的话说，他是在用诗的象征，唤起人类的“大记忆”或“大心灵”。在人类的精神生活中，对生与死、灵与肉、现世和永恒的问题，尽管许多凡夫俗子意识不到，却时时困扰着诗人和哲学家的心灵。叶芝在本诗中述说了自己的答案：生命是有限的，无须流连沉迷，人应当超越物质自然，到艺术与理性的殿堂中寻找永恒的精神存在。
+
+十二、
+
+>He Wishes for the Cloth of Heaven
+
+>Had I the heavens' embroidered cloths
+Enwrought with golden and sliver light
+The blue and the dim and the dark cloths
+of night and light and the half-light
+I would spread the cloths under your feet
+But I, being poor, have only my dreams
+I have spread my dreams under your feet
+Tread softly because you tread on my dreams
+
+他希冀天国的锦缎
+
+若我有天国的锦缎
+以鎏金璨银的辉光制成
+添以破晓的湛蓝，深夜的黝黑
+以及薄暮时的黯光
+我会把这锦缎铺展在你脚下
+但我，一无所有，仅有一场幻梦
+已把这锦缎铺展在你脚下
+轻点踩吧，因为你踩着我的梦
+
+&#8194;&#8194;&#8194;&#8194;可惜诗句虽好，却打动不了佳人。显然叶芝这一套情深款款的面孔和心意打动不了Maud Gone，她更喜欢的是后来的丈夫那样“有男子气概”的男人，叶芝犹不自知——且不说诗句是否能将心意全部传递，就算传递到了，对于Maud来说，又有什么吸引力呢？
+
+
+
+
