@@ -1,7 +1,7 @@
 ---
-title: 叶芝自译（十一首）
+title: 叶芝自译（十二首）
 categories: "白鸟小诗"
-date: 2020-3-3
+date: 2020-4-1
 tags: ["叶芝"]
 cover: http://img.innisfreeisland.cn/YeatsPoemsCover.jfif
 ---
