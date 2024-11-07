@@ -137,3 +137,117 @@
 1) 主题学研究概述
 ![1](C://Users//13189//Desktop//Literature/56.PNG)
 ![1](C://Users//13189//Desktop//Literature/57.PNG)
+
+2) 母题和主题
+![1](C://Users//13189//Desktop//Literature/58.PNG)
+![1](C://Users//13189//Desktop//Literature/59.PNG)
+
+3) 题材
+![1](C://Users//13189//Desktop//Literature/60.PNG)
+![1](C://Users//13189//Desktop//Literature/61.PNG)
+
+4) 情境
+![1](C://Users//13189//Desktop//Literature/62.PNG)
+
+5) 意象和套语
+![1](C://Users//13189//Desktop//Literature/63.PNG)
+
+16. 主题学研究的分类
+1) 法国学者梵第根的分法
+![1](C://Users//13189//Desktop//Literature/64.PNG)
+2) 罗马尼亚学者迪马的分法
+![1](C://Users//13189//Desktop//Literature/65.PNG)
+3) 主题学研究和范围的划分
+① 母题研究
+![1](C://Users//13189//Desktop//Literature/66.PNG)
+![1](C://Users//13189//Desktop//Literature/67.PNG)
+![1](C://Users//13189//Desktop//Literature/68.PNG)
+② 主题研究
+![1](C://Users//13189//Desktop//Literature/69.PNG)
+![1](C://Users//13189//Desktop//Literature/70.PNG)
+③ 情境研究
+![1](C://Users//13189//Desktop//Literature/71.PNG)
+![1](C://Users//13189//Desktop//Literature/72.PNG)
+![1](C://Users//13189//Desktop//Literature/73.PNG)
+4) 主题学研究的新进展
+① 主题学研究的复兴
+![1](C://Users//13189//Desktop//Literature/74.PNG)
+② 方法论的研究
+![1](C://Users//13189//Desktop//Literature/75.PNG)
+③ 人工智能的参与
+![1](C://Users//13189//Desktop//Literature/76.PNG)
+④ 女性主义批评的切入
+![1](C://Users//13189//Desktop//Literature/77.PNG)
+
+17. 翻译研究与译介学概述
+1) 传统翻译研究与比较文学的翻译研究之间的区别
+![1](C://Users//13189//Desktop//Literature/78.PNG)
+![1](C://Users//13189//Desktop//Literature/79.PNG)
+① 研究角度的不同
+② 研究重点的不同
+③ 研究目的的不同
+![1](C://Users//13189//Desktop//Literature/80.PNG)
+
+2) 翻译中的创造性叛逆
+![1](C://Users//13189//Desktop//Literature/81.PNG)
+① 译者的创造性叛逆
+有有意识型和无意识型两种类型。具体又表现为以下四种情况。
+(一) 个性化翻译
+![1](C://Users//13189//Desktop//Literature/82.PNG)
+(二) 误译和漏译
+![1](C://Users//13189//Desktop//Literature/83.PNG)
+(三) 节译与编译
+![1](C://Users//13189//Desktop//Literature/84.PNG)
+![1](C://Users//13189//Desktop//Literature/85.PNG)
+(四) 转译与改编
+![1](C://Users//13189//Desktop//Literature/86.PNG)
+![1](C://Users//13189//Desktop//Literature/87.PNG)
+
+② 接受者和读者的创造性叛逆
+![1](C://Users//13189//Desktop//Literature/88.PNG)
+
+③ 接受环境的创造性叛逆
+![1](C://Users//13189//Desktop//Literature/89.PNG)
+
+3) 翻译文学与翻译文学史
+译著是属于译文语言的民族文学的，译者是作家、艺术家。译者同作家一样要为每一个词，每一句话，印着他名字的每一本书负责。
+![1](C://Users//13189//Desktop//Literature/90.PNG)
+
+4) 翻译研究的最新进展
+![1](C://Users//13189//Desktop//Literature/91.PNG)
+![1](C://Users//13189//Desktop//Literature/92.PNG)
+![1](C://Users//13189//Desktop//Literature/93.PNG)
+![1](C://Users//13189//Desktop//Literature/94.PNG)
+![1](C://Users//13189//Desktop//Literature/95.PNG)
+
+18. 形象学研究概述
+![1](C://Users//13189//Desktop//Literature/96.PNG)
+![1](C://Users//13189//Desktop//Literature/97.PNG)
+![1](C://Users//13189//Desktop//Literature/98.PNG)
+
+19. 形象学的定义及其研究范围
+巴柔在《比较文学概论》中对形象所下的定义是：在文学化，同时也是社会化的过程中得到的对异国认识的总和。此后，他又对该定义作了补充，指出：一切形象都源于对自我与‘他者’，本土与‘异域’关系的自觉意识之中，即使这种意识十分微弱的。因此形象即为对两种类型文化现实间的差距所作的文学的或非文学的，且能说明符指关系的表述。
+
+1) 形象是对一种文化现实的描述，是情感与思想的混合物
+![1](C://Users//13189//Desktop//Literature/99.PNG
+
+2) 形象是一种象征语言
+![1](C://Users//13189//Desktop//Literature/100.PNG)
+
+3) 套话(stereotype)
+![1](C://Users//13189//Desktop//Literature/101.PNG)
+![1](C://Users//13189//Desktop//Literature/102.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
