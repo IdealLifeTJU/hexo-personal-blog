@@ -239,15 +239,279 @@
 ![1](C://Users//13189//Desktop//Literature/102.PNG)
 
 
+20. 形象学的主要理论以及方法论
+由于研究侧重点的改变，当代形象学所使用的理论和方法论也必然发生重大变革。从第二节介绍的巴柔对形象的定义中，可以辨析出三个层次来：研究形象自身；在与社会总体想象物的关系中来研究它；按照文本中分析形象的适当方法来研究。
+
+1) 形象
+![1](C://Users//13189//Desktop//Literature/103.PNG)
+![1](C://Users//13189//Desktop//Literature/104.PNG)
+2) 社会总体想象物
+![1](C://Users//13189//Desktop//Literature/105.PNG)
+① 意识形态
+![1](C://Users//13189//Desktop//Literature/106.PNG)
+② 乌托邦
+![1](C://Users//13189//Desktop//Literature/107.PNG)
+③ 异国形象类型总结
+![1](C://Users//13189//Desktop//Literature/108.PNG)
+![1](C://Users//13189//Desktop//Literature/109.PNG)
+3) 文本分析方法
+对社会总体想象物的研究属于文学的外部研究，它讨论每一文本与历史、社会铰接的具体方式，但在此前和在这种研究进行当中，我们还必须进行文学的内部研究，通过具体的文本分析来搞清形象本身究竟是怎么样的。
+① 词汇
+![1](C://Users//13189//Desktop//Literature/110.PNG)
+![1](C://Users//13189//Desktop//Literature/111.PNG)
+② 等级关系
+![1](C://Users//13189//Desktop//Literature/112.PNG)
+③ 故事情节
+![1](C://Users//13189//Desktop//Literature/113.PNG)
+![1](C://Users//13189//Desktop//Literature/114.PNG)
+
+21. 当代形象学及其前景
+1) 当代形象学对传统的更新
+当代形象学聪内容到方法都对传统研究进行的重大变革。
+① 注重“相异性”，注重“我”与“他者”的互动性
+![1](C://Users//13189//Desktop//Literature/115.PNG)
+② 注重对“主体”的研究
+![1](C://Users//13189//Desktop//Literature/116.PNG)
+③ 注重总体分析
+![1](C://Users//13189//Desktop//Literature/117.PNG)
+
+2) 对形象学研究应给予全景式的关照
+![1](C://Users//13189//Desktop//Literature/118.PNG)
+
+22. 思潮流派比较研究概述
+![1](C://Users//13189//Desktop//Literature/119.PNG)
+![1](C://Users//13189//Desktop//Literature/120.PNG)
+严格意义上的思潮流派只存在于欧洲近现代文学史，中国文学史上的思潮流派则显得较为松散，它往往是一种自发形成的宗派性的群体，事前并没有明确的理论纲领，也没有一定的传播媒体，很多都是后人根据他们相近的艺术风格和思想倾向，给他们明明，只有到了现代，随着中西文化的空前交流，西方文艺思潮对中国现代文学产生了深远的影响才出现了比较严格的思潮流派。
+![1](C://Users//13189//Desktop//Literature/121.PNG)
+![1](C://Users//13189//Desktop//Literature/122.PNG)
+![1](C://Users//13189//Desktop//Literature/123.PNG)
+![1](C://Users//13189//Desktop//Literature/124.PNG)
+文学思潮与文学流派之间存在着一种互动关系。文学流派的形成与消解，根源于社会文化思潮的嬗变。有什么社会文化思潮，就有什么样的文学思潮，而文学流派则是文学思潮的产物，并反过来推动文学思潮。文学史上出现的任何文学流派无不易某种文化思潮作为思想源。这是一种规律性的现象，也是思潮流派比较研究的根本前提。
+
+23. 西方思潮流派的比较研究
+![1](C://Users//13189//Desktop//Literature/125.PNG)
+![1](C://Users//13189//Desktop//Literature/126.PNG)
+![1](C://Users//13189//Desktop//Literature/127.PNG)
+![1](C://Users//13189//Desktop//Literature/128.PNG)
+![1](C://Users//13189//Desktop//Literature/129.PNG)
+![1](C://Users//13189//Desktop//Literature/130.PNG)
+![1](C://Users//13189//Desktop//Literature/131.PNG)
+![1](C://Users//13189//Desktop//Literature/132.PNG)
+![1](C://Users//13189//Desktop//Literature/133.PNG)
+
+24. 西方文艺思潮与中国现当代文学的关系
+![1](C://Users//13189//Desktop//Literature/134.PNG)
+![1](C://Users//13189//Desktop//Literature/135.PNG)
+中国现当代文学思潮流派与外国文学思潮流派之间的复杂关系：
+
+1) 西方现实主义思潮与中国现代文学思潮的关系
+![1](C://Users//13189//Desktop//Literature/136.PNG)
+![1](C://Users//13189//Desktop//Literature/137.PNG)
+![1](C://Users//13189//Desktop//Literature/138.PNG)
+
+2) 西方浪漫主义思潮与五四浪漫主义文学的关系
+![1](C://Users//13189//Desktop//Literature/139.PNG)
+![1](C://Users//13189//Desktop//Literature/140.PNG)
+
+3) 西方现代主义思潮与中国现当代文学的关系
+![1](C://Users//13189//Desktop//Literature/141.PNG)
+![1](C://Users//13189//Desktop//Literature/142.PNG)
+![1](C://Users//13189//Desktop//Literature/143.PNG)
+![1](C://Users//13189//Desktop//Literature/144.PNG)
 
 
+25. 类型学研究概述
+![1](C://Users//13189//Desktop//Literature/145.PNG)
+![1](C://Users//13189//Desktop//Literature/146.PNG)
+![1](C://Users//13189//Desktop//Literature/147.PNG)
+![1](C://Users//13189//Desktop//Literature/148.PNG)
+![1](C://Users//13189//Desktop//Literature/149.PNG)
+![1](C://Users//13189//Desktop//Literature/150.PNG)
+![1](C://Users//13189//Desktop//Literature/151.PNG)
+![1](C://Users//13189//Desktop//Literature/152.PNG)
+![1](C://Users//13189//Desktop//Literature/153.PNG)
+![1](C://Users//13189//Desktop//Literature/154.PNG)
+![1](C://Users//13189//Desktop//Literature/155.PNG)
+![1](C://Users//13189//Desktop//Literature/156.PNG
+![1](C://Users//13189//Desktop//Literature/157.PNG)
+
+26. 类型学研究方法论
+![1](C://Users//13189//Desktop//Literature/158.PNG)
+1) “类型共同性”的基本单位
+![1](C://Users//13189//Desktop//Literature/159.PNG)
+![1](C://Users//13189//Desktop//Literature/160.PNG)
+![1](C://Users//13189//Desktop//Literature/161.PNG)
+
+2) “类型学相似”的基本特征
+![1](C://Users//13189//Desktop//Literature/162.PNG)
+3) “类型学相似”诸种形态
+![1](C://Users//13189//Desktop//Literature/163.PNG)
+![1](C://Users//13189//Desktop//Literature/164.PNG)
+4) “类型学”的“超越激情”和“历史主义”
+![1](C://Users//13189//Desktop//Literature/165.PNG)
+
+27. 类型学研究的前景
+![1](C://Users//13189//Desktop//Literature/166.PNG)
+![1](C://Users//13189//Desktop//Literature/167.PNG)
+![1](C://Users//13189//Desktop//Literature/168.PNG)
+
+28. 比较诗学研究概述
+![1](C://Users//13189//Desktop//Literature/169.PNG)
+![1](C://Users//13189//Desktop//Literature/170.PNG)
+![1](C://Users//13189//Desktop//Literature/171.PNG)
+![1](C://Users//13189//Desktop//Literature/172.PNG)
+![1](C://Users//13189//Desktop//Literature/173.PNG)
+![1](C://Users//13189//Desktop//Literature/174.PNG)
+![1](C://Users//13189//Desktop//Literature/175.PNG)
+![1](C://Users//13189//Desktop//Literature/176.PNG)
+
+29. 比较诗学的基本理论及方法论
+![1](C://Users//13189//Desktop//Literature/177.PNG)
+1) 可比性及“共同诗学”的寻求
+![1](C://Users//13189//Desktop//Literature/178.PNG)
+![1](C://Users//13189//Desktop//Literature/179.PNG)
+
+2) 东西方诗学的差异及其文化根源的探寻
+![1](C://Users//13189//Desktop//Literature/180.PNG)
+![1](C://Users//13189//Desktop//Literature/181.PNG)
+![1](C://Users//13189//Desktop//Literature/182.PNG)
+
+3) 比较诗学的阐发研究与对话研究
+![1](C://Users//13189//Desktop//Literature/183.PNG)
+![1](C://Users//13189//Desktop//Literature/184.PNG)
+![1](C://Users//13189//Desktop//Literature/185.PNG)
+
+30. 比较诗学的前景
+![1](C://Users//13189//Desktop//Literature/186.PNG)
+![1](C://Users//13189//Desktop//Literature/187.PNG)
+
+31. 原始艺术的同源混生
+![1](C://Users//13189//Desktop//Literature/188.PNG)
+![1](C://Users//13189//Desktop//Literature/189.PNG)
+![1](C://Users//13189//Desktop//Literature/190.PNG)
+
+32. 文学与其他艺术的相互借鉴
+![1](C://Users//13189//Desktop//Literature/191.PNG)
+![1](C://Users//13189//Desktop//Literature/192.PNG)
+![1](C://Users//13189//Desktop//Literature/193.PNG)
+![1](C://Users//13189//Desktop//Literature/194.PNG)
+![1](C://Users//13189//Desktop//Literature/195.PNG)
+![1](C://Users//13189//Desktop//Literature/196.PNG)
+![1](C://Users//13189//Desktop//Literature/197.PNG)
+![1](C://Users//13189//Desktop//Literature/198.PNG)
+![1](C://Users//13189//Desktop//Literature/199.PNG)
+![1](C://Users//13189//Desktop//Literature/200.PNG)
+
+33. 文学与其他艺术的差异与互补
+![1](C://Users//13189//Desktop//Literature/201.PNG)
+![1](C://Users//13189//Desktop//Literature/202.PNG)
+![1](C://Users//13189//Desktop//Literature/203.PNG)
+
+34. 审美理想与创作原则的共性
+![1](C://Users//13189//Desktop//Literature/204.PNG)
+![1](C://Users//13189//Desktop//Literature/205.PNG)
+![1](C://Users//13189//Desktop//Literature/206.PNG)
+![1](C://Users//13189//Desktop//Literature/207.PNG)
+![1](C://Users//13189//Desktop//Literature/208.PNG)
+![1](C://Users//13189//Desktop//Literature/209.PNG)
+![1](C://Users//13189//Desktop//Literature/210.PNG)
+![1](C://Users//13189//Desktop//Literature/211.PNG)
+
+35. 文学与心理学关系研究概述
+![1](C://Users//13189//Desktop//Literature/212.PNG)
+![1](C://Users//13189//Desktop//Literature/213.PNG)
+![1](C://Users//13189//Desktop//Literature/214.PNG)
+
+36. 心理学对文学的渗透
+![1](C://Users//13189//Desktop//Literature/215.PNG)
+![1](C://Users//13189//Desktop//Literature/216.PNG)
+![1](C://Users//13189//Desktop//Literature/217.PNG)
+![1](C://Users//13189//Desktop//Literature/218.PNG)
+![1](C://Users//13189//Desktop//Literature/219.PNG)
+![1](C://Users//13189//Desktop//Literature/220.PNG)
+![1](C://Users//13189//Desktop//Literature/221.PNG)
+![1](C://Users//13189//Desktop//Literature/222.PNG)
+![1](C://Users//13189//Desktop//Literature/223.PNG)
+![1](C://Users//13189//Desktop//Literature/224.PNG)
+![1](C://Users//13189//Desktop//Literature/225.PNG)
+![1](C://Users//13189//Desktop//Literature/226.PNG)
+
+37. 心理学对文学批评的意义
+![1](C://Users//13189//Desktop//Literature/227.PNG)
+![1](C://Users//13189//Desktop//Literature/228.PNG)
+![1](C://Users//13189//Desktop//Literature/229.PNG)
+![1](C://Users//13189//Desktop//Literature/230.PNG)
+![1](C://Users//13189//Desktop//Literature/231.PNG)
+
+38. 文学与宗教关系的研究现状
+![1](C://Users//13189//Desktop//Literature/232.PNG)
+![1](C://Users//13189//Desktop//Literature/233.PNG)
+![1](C://Users//13189//Desktop//Literature/234.PNG)
+![1](C://Users//13189//Desktop//Literature/235.PNG)
+![1](C://Users//13189//Desktop//Literature/236.PNG)
+![1](C://Users//13189//Desktop//Literature/237.PNG)
+![1](C://Users//13189//Desktop//Literature/238.PNG)
+![1](C://Users//13189//Desktop//Literature/239.PNG)
+39. 同文化体系的文学与宗教关系
+![1](C://Users//13189//Desktop//Literature/240.PNG)
+![1](C://Users//13189//Desktop//Literature/242.PNG)
+![1](C://Users//13189//Desktop//Literature/243.PNG)
+![1](C://Users//13189//Desktop//Literature/244.PNG)
+![1](C://Users//13189//Desktop//Literature/245.PNG)
+
+40. 跨文化体系的文学与宗教关系
+![1](C://Users//13189//Desktop//Literature/246.PNG)
+![1](C://Users//13189//Desktop//Literature/247.PNG)
+![1](C://Users//13189//Desktop//Literature/248.PNG)
+![1](C://Users//13189//Desktop//Literature/249.PNG)
+![1](C://Users//13189//Desktop//Literature/250.PNG)
+![1](C://Users//13189//Desktop//Literature/251.PNG)
+![1](C://Users//13189//Desktop//Literature/252.PNG)
+![1](C://Users//13189//Desktop//Literature/253.PNG)
+![1](C://Users//13189//Desktop//Literature/254.PNG)
+
+41. 文学与哲学比较研究概述
+![1](C://Users//13189//Desktop//Literature/255.PNG)
+![1](C://Users//13189//Desktop//Literature/256.PNG)
+![1](C://Users//13189//Desktop//Literature/257.PNG)
+![1](C://Users//13189//Desktop//Literature/258.PNG)
+![1](C://Users//13189//Desktop//Literature/259.PNG)
+![1](C://Users//13189//Desktop//Literature/260.PNG)
+![1](C://Users//13189//Desktop//Literature/261.PNG)
+
+42. 西方文化中的文学与哲学
+![1](C://Users//13189//Desktop//Literature/262.PNG)
+![1](C://Users//13189//Desktop//Literature/263.PNG)
+![1](C://Users//13189//Desktop//Literature/264.PNG)
+![1](C://Users//13189//Desktop//Literature/265.PNG)
+![1](C://Users//13189//Desktop//Literature/266.PNG)
+![1](C://Users//13189//Desktop//Literature/267.PNG)
+![1](C://Users//13189//Desktop//Literature/268.PNG)
 
 
+43. 中国文化中的文学与哲学
+![1](C://Users//13189//Desktop//Literature/269.PNG)
+![1](C://Users//13189//Desktop//Literature/270.PNG)
+![1](C://Users//13189//Desktop//Literature/271.PNG)
+![1](C://Users//13189//Desktop//Literature/272.PNG)
+![1](C://Users//13189//Desktop//Literature/273.PNG)
+![1](C://Users//13189//Desktop//Literature/274.PNG)
+![1](C://Users//13189//Desktop//Literature/275.PNG)
 
+44. 文学与科学的界定
+![1](C://Users//13189//Desktop//Literature/276.PNG)
+![1](C://Users//13189//Desktop//Literature/277.PNG)
+![1](C://Users//13189//Desktop//Literature/278.PNG)
 
+45. 科学与文学
+对科学与文学之间既融合又彼此对峙的认识，自古希腊起，就一直为包括科学界与文学界在内的学者们所关注。他们虽然未能使用现代的术语，却不
+![1](C://Users//13189//Desktop//Literature/279.PNG)
+![1](C://Users//13189//Desktop//Literature/280.PNG)
+![1](C://Users//13189//Desktop//Literature/281.PNG)
+![1](C://Users//13189//Desktop//Literature/282.PNG)
+![1](C://Users//13189//Desktop//Literature/283.PNG)
+![1](C://Users//13189//Desktop//Literature/284.PNG)
+![1](C://Users//13189//Desktop//Literature/285.PNG)
+![1](C://Users//13189//Desktop//Literature/286.PNG)
 
-
-
-
-
-
+46. 文学中的科学
